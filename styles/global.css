@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: gray;
+}
+span {
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+  }
+
+  .navbar {
+    background: green;
+    padding: 15px;
+  }
